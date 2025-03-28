@@ -1,0 +1,17 @@
+ 34-Qubit Shor's Algorithm for N=2047 (23×89)
+
+ Full Circuit Diagram:
+- PDF version saved: full_circuit.pdf
+
+ Quantum Resources:
+ - Total qubits: 33/34
+ - Circuit depth: 77
+ - Operations: OrderedDict([('cp', 473), ('h', 44), ('measure', 22), ('x', 1)])
+
+ Memory Usage:
+ - Peak GPU Memory: 971.38 MB
+ - Peak CPU Memory: 559.71 MB
+
+ Execution time: 31.56s
+
+ Factors of 2047: {89, 23}
